@@ -1,0 +1,8 @@
+.cover {
+  background: url(img/bg.png);
+  background-size: cover;
+}
+
+.googlefont {
+  font-family: 'Permanent Marker', cursive;
+}
